@@ -5,9 +5,9 @@
 ### Members: Alex Kanj (agk37@pitt.edu) and Aidan O'Shane (ato24@Pitt.edu)
 
 ### NoteBooks: 
-### arrests.ipynb: Alex Kanj
-### ParkAnalysis.ipynb: Aidan O'Shane
-### WalkingAnalysis.ipynb: Aidan O'Shane and Alex Kanj
+### arrests.ipynb: Alex Kanj :-
+### ParkAnalysis.ipynb: Aidan O'Shane :-
+### WalkingAnalysis.ipynb: Aidan O'Shane and Alex Kanj :-
 
 ### Group 45
 
